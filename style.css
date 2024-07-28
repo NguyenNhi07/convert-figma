@@ -326,7 +326,7 @@ img {
 }
 
 .contact-link:hover {
-  background-color: #3a3a3a;
+  border: 1.5px solid #3996db;
 }
 
 .contact-link .link-arrow {
